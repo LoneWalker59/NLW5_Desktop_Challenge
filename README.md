@@ -11,4 +11,4 @@ P.s: To leave the project with "my face" I decided to make several changes and r
 * Interactable background
 
 # ✨ Link
-https://lonewalker59.github.io/NLW5/
+https://lonewalker59.github.io/NLW5_Desktop_Challenge/
