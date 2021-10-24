@@ -117,9 +117,8 @@ main {
   background: url(images/mask.png);
   background-color: rgb(31, 29, 29);
   width: 358px;
-  height: 540px;
-  top: 140px;
-  left: 541px;
+  height: 600px;
+  top: 142px;
   position: absolute;
 }
 
@@ -133,11 +132,12 @@ main {
 
 a {
   text-decoration: none;
-  margin-top: 0.25rem;
+  margin-top: 1.5rem;
   display: flex;
   gap: 0.75rem;
   justify-content: center;
   align-items: center;
+  color: hsl(240, 2%, 70%);
 }
 
 h1 {
@@ -165,7 +165,7 @@ ul:hover {
 
 .avatar {
   width: 10rem;
-  margin: 3.1rem auto 0;
+  margin: 3.9rem auto 0;
   position: relative;
 }
 
