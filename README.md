@@ -1,14 +1,29 @@
-# 🚀 Next Level Week 5: Challenge
-In this version of @rocketseat's NLW5 project, students were challenged to design a desktop virtual badge based on the instructions from the mobile version of the previous project.
+<h1 align="center">
+ NLW-Heat - Virtual Badge (Desktop Challenge) - DoWhile 2021
+</h1>
 
-# 🧾 Project
-Virtual desktop badge with interactive features.
+## 🚀 Technologies
 
-P.s: To leave the project with "my face" I decided to make several changes and research on how to develop what I wanted, these are my personal changes:
-* Zoom effect when selecting a social media.
-* 3D effect
-* Animated background
-* Interactable background
+Project developed with the following technologies:
 
-# ✨ Link
-https://lonewalker59.github.io/NLW5_Desktop_Challenge/
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## 👩‍💻 Project
+
+This is the challenge proposed during nlw 2021, students were challenged to make a desktop version of the virtual badge. In addition to the challenge, I decided to add:
+
+- Badge with 3D effect.
+- Zoom-in effect when hovering over the social media layout.
+- Functional background with animation and mouse interaction.
+
+To visualize the final result, [click here!](<https://lonewalker59.github.io/NLW5_Desktop_Challenge/>)
+
+## 🎨 Layout
+
+Visit the project layout through [this link.](<https://www.figma.com/community/file/1031698737363668691>). You must have a [Figma](https://figma.com) account to acess it.
+
+
+---
+
