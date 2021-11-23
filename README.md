@@ -2,6 +2,11 @@
  NLW-Heat - Virtual Badge (Desktop Challenge) - DoWhile 2021
 </h1>
 
+<p align="center">
+ <img alt="Rocket.Q" src="https://user-images.githubusercontent.com/92222852/142972317-c72d8a35-95af-47da-b144-6cd6f2f057dd.png" width="100%">
+</p>
+
+
 ## 🚀 Technologies
 
 Project developed with the following technologies:
